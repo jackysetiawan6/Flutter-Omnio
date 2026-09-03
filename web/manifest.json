@@ -1,11 +1,11 @@
 {
-    "name": "omnio",
-    "short_name": "omnio",
+    "name": "Omnio",
+    "short_name": "Omnio",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#F7F9FC",
+    "theme_color": "#3157A4",
+    "description": "Your calendar, people, and everyday tools together.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
